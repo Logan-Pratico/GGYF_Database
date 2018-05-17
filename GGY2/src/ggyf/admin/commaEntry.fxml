@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="241.0" prefWidth="565.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="70.0" layoutY="29.0" text="It looks like you used some commas...">
+         <font>
+            <Font name="Segoe UI Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="9.0" layoutY="66.0" text="This program uses CSV (Comma Separated Values) to sort through the data you entered.">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="145.0" layoutY="86.0" text=" Thus, using commas confuses the computer">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="127.0" layoutY="165.0" text="Please review your entries and delete any commas">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

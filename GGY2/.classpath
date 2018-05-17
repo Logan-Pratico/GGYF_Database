@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/application/Application/"/>
+			<accessrule kind="accessible" pattern="javafx/fxml/FXMLLoader/"/>
+			<accessrule kind="accessible" pattern="javafx/scene/Parent/"/>
+			<accessrule kind="accessible" pattern="javafx/scene/Scene/"/>
+			<accessrule kind="accessible" pattern="javafx/stage/Stage"/>
+			<accessrule kind="accessible" pattern="javafx/scene/control/TextField/"/>
+			<accessrule kind="accessible" pattern="javafx/fxml/FXML/"/>
+			<accessrule kind="accessible" pattern="javafx/scene/layout/BorderPane/"/>
+			<accessrule kind="accessible" pattern="javafx/scene/control/TextField/clear"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lprat/Documents/Semester 2/COMP 110/GGY2/opencsv-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Logan/Downloads/opencsv-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
