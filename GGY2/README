@@ -1,0 +1,11 @@
+Hello, if you are reading this, chances are that you are a computer science student at UNC interested in or working with the Campus Y. Building off of that, I will assume that you know a bit about both programming and the Campus Y. However, just as a brief introduction, this project was started in the summer of 2017 by Logan Pratico as a way for future Global Gap Year Students to learn about what previous fellows have done and where they have gone. 
+
+The project currently only exists in Java, and as a result is very difficult to make available to GGYF fellows. If your device runs eclipse or some other Java IDE, chances are that you can get this running with minimal effort (although I have provided a couple of key instructions below). But without that it can be quite difficult. It is for this reason that I am putting this project here on GitHub as an open source project. If you have any desire to either improve this project in its current form, or recreate it in a programming language that would allow it to be put online (ie: php, or javascript) then feel free.
+
+Now for the logistics about getting this thing up and running...
+  1) this project uses the opensource software OPENCSV to read and iterate through the CSV file which contains all of the information about the fellows. As such it is crucial that you first download and link OPENCSV to the java libraries for this project (if you are a UNC student, this is similar to adding the autograder to an assignment).
+  2) When running this project, it is also crucial that you keep the CSV and the actually java project (as a .jar file) in the same directory. The program needs to know where to find the file, so it is best to create a random folder and put both the jar file and the CSV inside of it.
+  3) When you first run this program, the program may be too big for your screen. Somewhere in this code (not sure where) there is a way to adjust the dimensions. I will leave it as an exercise to you to figure out how to adjust that).
+  4) if you have questions, email me at lpratico at live dot unc dot edu. Or if you know me than obviously just shoot me a message.
+  
+Good luck and may the odds be ever in your favor.
